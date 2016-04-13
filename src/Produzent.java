@@ -1,6 +1,7 @@
 import java.io.IOException;
 import java.io.PipedWriter;
 
+//Hier kommen dann die Methoden rein von Übung 1
 class Produzent extends Thread {
 	PipedWriter pw;
 	int x = 0;

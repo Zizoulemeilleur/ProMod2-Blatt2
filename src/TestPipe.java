@@ -2,6 +2,7 @@ import java.io.IOException;
 import java.io.PipedReader;
 import java.io.PipedWriter;
 
+//Und hier ist die "ExtraKlasse" sozusagen mit der pipe scheiße
 public class TestPipe {
 	public static void main(String[] args) {
 		try {
